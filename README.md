@@ -1,2 +1,0 @@
-# MusicPlayerProject
-Music Player GUI
