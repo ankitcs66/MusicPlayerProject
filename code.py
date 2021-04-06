@@ -1,5 +1,6 @@
 # MusicPlayerProject
-Music Player GUI
+# Music Player GUI
+
 import pygame
 import tkinter as tkr
 from tkinter.filedialog import askdirectory
